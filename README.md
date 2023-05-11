@@ -1,5 +1,5 @@
 # Sales-Insights
-Analyze sales data to unveil trends
+Analyze sales data to unveil trends using MySQL and Power BI
 
 ## Introduction
 AtliQ Hardware is a leading and dynamically growing company that supplies computer hardware and peripherals across India.
