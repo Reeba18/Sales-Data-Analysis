@@ -1,4 +1,5 @@
 # Sales-Insights
+View this project on : https://mavenanalytics.io/project/8997
 Analyze sales data to unveil trends using MySQL and Power BI
 
 ## Introduction
